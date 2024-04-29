@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1HE8DWda+EbnpPa5SGsWQGifGzQJFTIJKOqQ7MYBGzFSMVv1B3V+UT98KEgwovhfJfgmQOfva29Yjo6zJ9jQw==",
+  "dgSpecHash": "s184gD8frBKwwi0y6PMDh1az4lcUpVcr+yGbkOSuNWmYVTexD72QwNz4lzsrsHssTnxJJW81/j3nytkAivVrGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
+  "projectFilePath": "c:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz Henrique\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\8.0.4\\microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\Luiz Henrique\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

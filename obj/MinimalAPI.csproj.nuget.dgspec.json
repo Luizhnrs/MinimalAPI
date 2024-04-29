@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj": {}
+    "c:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj": {
+    "c:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
+        "projectUniqueName": "c:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
         "projectName": "MinimalAPI",
-        "projectPath": "C:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
+        "projectPath": "c:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\Luiz Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\obj\\",
+        "outputPath": "c:\\Users\\Luiz Henrique\\Documents\\Projects\\C-Sharp\\MinimalAPI\\MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luiz Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
